@@ -1,5 +1,5 @@
 import MovieCard from './MovieCard';
-import Search from './Search';
+import Search from './SearchResults';
 
 export default function Main({ movies, setSearch, getMovies }) {
   return (
